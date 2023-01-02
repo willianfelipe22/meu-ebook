@@ -1,0 +1,55 @@
+h1{
+    font-weight: 400px;
+    font-size: 60px;
+    line-height: 70px;
+    color: #5d5d7d;
+}
+p{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 48px;
+    color:#5d5d7d;
+    opacity: 0.6;
+   
+}
+button{
+    color: #ffffff;
+    background: #5d5d9d;
+    width: 269px;
+    height: 62px;
+    border: solid 1px;
+    border-radius: 20px;
+    margin-top: 20px;
+    
+}
+img{
+    width: 500px;
+    height: 570px;
+    margin-left: 50px;
+    margin-top: 20px;
+
+   
+}
+
+header{
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 41px;
+    color: #5d5d7d;
+    margin-left: 30px;
+   
+   
+}
+a{
+    margin-left: 20px;
+}
+
+div1{
+    display: inline-block;
+   
+    margin-left: 10px;
+}
+div2{
+    display: inline-block;
+    margin-left: 120px;
+}
